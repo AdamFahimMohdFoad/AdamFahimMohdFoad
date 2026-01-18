@@ -70,7 +70,10 @@ ULRS1032 | Integrity and Anti-Corruption
 - Final Fundamentals of Programming Project
 ## Contact 
 - Email: adamfahimmf@gmail.com
-- LinkedIn: https://www.linkedin.com/in/
+- LinkedIn: <a href="https://www.linkedin.com/in/adam-fahim-mohd-foad-9460563a6/">
+    Visit my LinkedIn
+</a>
+
 
 
 
