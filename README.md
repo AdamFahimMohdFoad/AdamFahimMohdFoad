@@ -55,7 +55,12 @@ SECR1013 | Digital Logic
 
 SECI1013 | Discrete Structure
 
-SECP1513 | Technology and Information System 
+<p>
+<a href="https://github.com/AdamFahimMohdFoad/Technology-and-Information-System" target="_blank">
+SECP1513 | Technology and Information System
+</a>
+</p>
+
 
 ULRS1032 | Integrity and Anti-Corruption
 
